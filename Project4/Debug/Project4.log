@@ -1,0 +1,9 @@
+﻿  MySurfaces.cpp
+h:\math155aprojects\project4\mysurfaces.cpp(255): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\math155aprojects\project4\mysurfaces.cpp(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\math155aprojects\project4\mysurfaces.cpp(331): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\math155aprojects\project4\mysurfaces.cpp(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'H:\Math155AProjects\Project4\Debug\vc120.pdb'; linking object as if no debug info
+  Project4.vcxproj -> H:\Math155AProjects\Project4\Debug\Project4.exe
